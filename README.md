@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Currently working as a Freelance Fullstack Developer<br>📚 Build multiple projects using MERN Stack and currently building an advanced chatbot named Gemini AI using Google's Multimodal named Gemini<br>🎯 Build innovative solutions that improve people's lives<br>🎲 Loves building web projects and writing technical blogs to share knowledge with others</p>
+<p align="left">✨ Currently working as a Freelance Fullstack Developer<br>📚 Build multiple projects using MERN Stack and currently building an advanced chatbot application called Gemini AI using Google's Multimodal named Gemini<br>🎯 Build innovative solutions that improve people's lives<br>🎲 Loves building web projects and writing technical blogs to share knowledge with others</p>
 
 ###
 
