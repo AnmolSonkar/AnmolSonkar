@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.imgur.com/s8RPfDKl.png"  />
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
