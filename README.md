@@ -19,33 +19,33 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="34" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="32" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="34" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="32" alt="socketio logo"  />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="34" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="34" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="firebase logo"  />
 </div>
 
 ###
@@ -56,22 +56,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anmol-sonkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="32" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="34" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/anmolsonkar_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="32" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="34" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/anmolsonkar__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="32" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="34" alt="instagram logo"  />
   </a>
   <a href="anmolsonkar742@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="32" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="34" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@anmolsonkar_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="46" height="32" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="34" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/invite/MBfz5RAfcP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="32" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="34" alt="discord logo"  />
   </a>
 </div>
 
